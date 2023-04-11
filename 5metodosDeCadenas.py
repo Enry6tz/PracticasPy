@@ -9,14 +9,14 @@ cadena6 = "letrass"
 
 #UPPER convierte en mayusculas
 
-print (cadena1.upper())
+print ("upper: " + cadena1.upper())
 
 #LOWER convierte a minuscula
-print (cadena2.lower()) 
+print ("lower: " +cadena2.lower()) 
 
 #CAPITALIZE pone todo en minusculas y la primer letra en mayusculas
 
-print (cadena1.capitalize())
+print ("capitalize: " +cadena1.capitalize())
 
 #FIND encuentra la primera aparicion del valor especificado, sino encuentra devuelve 1
 
